@@ -1,0 +1,20 @@
+class User{
+  var userId;
+  var userName;
+  var userPassword;
+  var userImage;
+  var userEmail;
+  var userGender;
+  var userAge;
+  var userHeight;
+  var userWeight;
+  var userDoctorNotes;
+  var calories;
+  var bodyMassIndex;
+  var basalMetabolicRate;
+  var bodyFatPercentage;
+  var leanBodyMass;
+  var proteinInGrams;
+  var carbInGrams;
+  var fatInGrams;
+}
